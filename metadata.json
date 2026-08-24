@@ -1,0 +1,6 @@
+{
+  "name": "SynapseOS",
+  "description": "Enterprise-grade offline-first Smart Education platform powered by on-device Edge-AI, Step-Wise Diagnostic VLM, Live Audio Scribe, and iQOO Office Kit Bridge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
